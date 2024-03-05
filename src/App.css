@@ -1,0 +1,19 @@
+.param-editor-button {
+	background-color: #31a6e4;
+	color: white;
+	padding: 8px 16px;
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+	margin-top: 10px;
+	font-weight: bold;
+	transition: all 0.1s ease-in-out;
+}
+
+.param-editor-button:hover {
+	background-color: #4ebaf9;
+}
+
+.param-editor-button:active {
+	transform: scale(0.96);
+}
